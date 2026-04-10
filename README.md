@@ -3,18 +3,14 @@
 ## 💻 Tech Stack
 ### 📱 Frontend
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0" color=#6DB33F height="50"/>
-  <img src="https://github.com/user-attachments/assets/cf851935-ec70-475b-b5ab-18d67be53129" height="50"/>
-  <img src="https://github.com/user-attachments/assets/0ead434f-2f41-4858-859e-61a0885117ad" height="50"/>
-  <img src="https://github.com/user-attachments/assets/d4e2e6aa-17ff-4bc8-b1f4-c89d967809b5" height="50"/>
-  <img src="https://github.com/user-attachments/assets/eed1f5d0-6244-4681-9a09-024bfd67875a" height="50"/>
-  <img src="https://github.com/user-attachments/assets/7286a478-5aac-4fcb-90b2-e82903145d65" height="50"/>
+
+  <img src="https://github.com/user-attachments/assets/5ed3ab03-4ef6-42e9-b8d2-71a59199219b" height="50"/>
+
 </div>
 ### ⚙️ Backend & Database
 <div width="100%">
-  <img src="https://github.com/user-attachments/assets/0610da35-c243-4699-9541-0884b6a376e9" height="50" alt="Spring">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
+  <img src="https://github.com/user-attachments/assets/0610da35-c243-4699-9541-0884b6a376e9" height="50" alt="Spring">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
 </div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
