@@ -12,7 +12,7 @@
 </div>
 ### ⚙️ Backend & Database
 <div width="100%">
-  <img src="https://github.com/user-attachments/assets/20bee7e5-ec76-4db1-a160-54af20f172a8" height="50" alt="Spring">
+  <img src="https://github.com/user-attachments/assets/0610da35-c243-4699-9541-0884b6a376e9" height="50" alt="Spring">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
