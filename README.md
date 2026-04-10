@@ -3,6 +3,15 @@
 ## 💻 Tech Stack
 ### 📱 Frontend
 <div align="left">
+  <img src="https://github.com/user-attachments/assets/008e221b-85da-4f90-a0d0-ae852480005d" height="50" alt="Spring">
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-C70D2C?style=for-the-badge&logo=mybatis&logoColor=white">
+</div>
+<div align="left">
   <img src="https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0" color=#6DB33F height="50"/>
   <img src="https://github.com/user-attachments/assets/cf851935-ec70-475b-b5ab-18d67be53129" height="50"/>
   <img src="https://github.com/user-attachments/assets/0ead434f-2f41-4858-859e-61a0885117ad" height="50"/>
