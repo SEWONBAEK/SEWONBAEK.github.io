@@ -1,24 +1,25 @@
 ## Hi there 👋
 
 ## 💻 Tech Stack
+
 ### 📱 Frontend
 <div width="100%">
   <img src="https://github.com/user-attachments/assets/97136c56-116a-49f0-8449-ca9f8e76c73e" alt="HTML5" height="50px">
-
+  <img src="https://github.com/user-attachments/assets/54927a36-b016-4c93-977f-ad9cd16553d4" alt="javascript" height="50px" />
 </div>
+
 ### ⚙️ Backend & Database
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img src="https://github.com/user-attachments/assets/0610da35-c243-4699-9541-0884b6a376e9" height="50" alt="Spring">
+  <img src="https://github.com/user-attachments/assets/f9f9a325-dc7e-43e2-9717-2b0b30c34415" alt="Python" height="50px">
 </div>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ### 🛠️ Tools
 <div align="left">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
   <img src="https://github.com/user-attachments/assets/af2fd6d2-877b-4554-afea-e36699e6edae" alt="GitHub" height="50px">
   <img src="https://github.com/user-attachments/assets/8c8325ca-ce14-49a5-b517-9b94b9cc73e1" alt="figma" height="50px">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="50px">
 </div>
 ### Statistics
 <div>
