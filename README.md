@@ -21,6 +21,7 @@
 <div align="left">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
   <img src="https://github.com/user-attachments/assets/af2fd6d2-877b-4554-afea-e36699e6edae" alt="GitHub" height="50px"/>
+  &nbsp;
   <img src="https://github.com/user-attachments/assets/8c8325ca-ce14-49a5-b517-9b94b9cc73e1" alt="figma" height="50px"/>
 </div>
 ### Statistics
