@@ -3,7 +3,8 @@
 ## 💻 Tech Stack
 ### 📱 Frontend
 <div width="100%">
-  ![Image](https://github.com/user-attachments/assets/719a55ec-883f-4d33-8c91-e3e80d9c5a5f)
+  <img align="left" src="![Image](https://github.com/user-attachments/assets/719a55ec-883f-4d33-8c91-e3e80d9c5a5f)" alt="java" height="50px"/>
+  
   ![Image](https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0)
   ![Image](https://github.com/user-attachments/assets/cf851935-ec70-475b-b5ab-18d67be53129)
   ![Image](https://github.com/user-attachments/assets/0ead434f-2f41-4858-859e-61a0885117ad)
