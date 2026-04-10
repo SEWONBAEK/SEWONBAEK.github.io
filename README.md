@@ -2,15 +2,13 @@
 
 ## 💻 Tech Stack
 ### 📱 Frontend
-<div width="100%">
-  <img align="left" src="![Image](https://github.com/user-attachments/assets/719a55ec-883f-4d33-8c91-e3e80d9c5a5f)" alt="java" height="50px"/>
-  
-  ![Image](https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0)
-  ![Image](https://github.com/user-attachments/assets/cf851935-ec70-475b-b5ab-18d67be53129)
-  ![Image](https://github.com/user-attachments/assets/0ead434f-2f41-4858-859e-61a0885117ad)
-  ![Image](https://github.com/user-attachments/assets/d4e2e6aa-17ff-4bc8-b1f4-c89d967809b5)
-  ![Image](https://github.com/user-attachments/assets/eed1f5d0-6244-4681-9a09-024bfd67875a)
-  ![Image](https://github.com/user-attachments/assets/7286a478-5aac-4fcb-90b2-e82903145d65)
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/fe8dce2c-5189-4810-9b52-2798690ca8c0" height="50"/>
+  <img src="https://github.com/user-attachments/assets/cf851935-ec70-475b-b5ab-18d67be53129" height="50"/>
+  <img src="https://github.com/user-attachments/assets/0ead434f-2f41-4858-859e-61a0885117ad" height="50"/>
+  <img src="https://github.com/user-attachments/assets/d4e2e6aa-17ff-4bc8-b1f4-c89d967809b5" height="50"/>
+  <img src="https://github.com/user-attachments/assets/eed1f5d0-6244-4681-9a09-024bfd67875a" height="50"/>
+  <img src="https://github.com/user-attachments/assets/7286a478-5aac-4fcb-90b2-e82903145d65" height="50"/>
 </div>
 ### ⚙️ Backend & Database
 <div width="100%">
