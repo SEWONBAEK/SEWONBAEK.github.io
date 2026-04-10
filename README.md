@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MyBatis-C70D2C?style=flat-square&logo=mybatis&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3766AB?style=for-the-badg&logo=Python&logoColor=white">
 
