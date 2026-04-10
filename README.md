@@ -6,6 +6,8 @@
 <div width="100%">
   <img src="https://github.com/user-attachments/assets/97136c56-116a-49f0-8449-ca9f8e76c73e" alt="HTML5" height="50px"/>
   &nbsp;
+  <img src="https://github.com/user-attachments/assets/75e5bb19-a4a0-4555-965c-76813e524cf0" alt="CSS3" height="50px"/>
+  &nbsp;
   <img src="https://github.com/user-attachments/assets/54927a36-b016-4c93-977f-ad9cd16553d4" alt="javascript" height="50px" />
 </div>
 
