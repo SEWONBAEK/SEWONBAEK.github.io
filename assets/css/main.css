@@ -139,7 +139,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #F6E05E;
+  color: #gray;
   font-weight: 700;
   line-height: 1em;
   margin: 0 0 0.5625em 0;
@@ -1417,7 +1417,7 @@ header h6 + p {
   line-height: 1.5em;
 }
 header.major h2 {
-  color: #50FA7B;
+  color: #F6E05E;
   font-size: 3.5em;
 }
 header.major h2 + p {
