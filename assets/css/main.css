@@ -2472,7 +2472,7 @@ input[type=button]:disabled,
     min-width: 320px;
   }
   #titleBar .title {
-    color: #fff;
+    color: #222;
     display: block;
     font-weight: 700;
     height: 44px;
