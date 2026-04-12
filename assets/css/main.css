@@ -209,7 +209,7 @@ blockquote {
 }
 
 code {
-  background: #555;
+  background: #f8f9fa;
   border-radius: 5px;
   color: #fff;
   font-family: "Source Code Pro", monospace;
@@ -1489,7 +1489,7 @@ select {
 }
 select option {
   color: #777;
-  background: #fffaf0;
+  background: #f8f9fa;
 }
 select:focus::-ms-value {
   background-color: transparent;
@@ -1548,7 +1548,7 @@ input[type=radio] + label:before {
 }
 input[type=checkbox] + label:before,
 input[type=radio] + label:before {
-  background: #fafafa;
+  background: #f8f9fa;
   border-radius: 5px;
   border: solid 2px #e4e4e4;
   content: "";
