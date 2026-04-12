@@ -1829,7 +1829,7 @@ ul.alt {
   padding-left: 0;
 }
 ul.alt li {
-  border-top: solid 2px #f5f5dc;
+  border-top: solid 2px #343a40;
   padding: 0.5em 0;
 }
 ul.alt li:first-child {
@@ -2000,7 +2000,7 @@ table {
   width: 100%;
 }
 table tbody tr {
-  border: solid 2px #f5f5dc;
+  border: solid 2px #343a40;
   border-left: 0;
   border-right: 0;
 }
@@ -2122,7 +2122,7 @@ input[type=submit].alt:hover,
 input[type=reset].alt:hover,
 input[type=button].alt:hover,
 .button.alt:hover {
-  background-color: #f5f5dc;
+  background-color: #343a40;
   color: #777 !important;
 }
 input[type=submit].alt:active,
@@ -2172,7 +2172,7 @@ input[type=button]:disabled,
 
 /* Features */
 .features article {
-  border-top: solid 3px #f5f5dc;
+  border-top: solid 3px #343a40;
   margin-bottom: 2.25em;
   padding-top: 2.25em;
 }
