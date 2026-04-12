@@ -2467,8 +2467,8 @@ input[type=button]:disabled,
     top: 0;
     width: 100%;
     z-index: 10001;
-    background: #FFF;
-    color: #fff;
+    background: #222;
+    color: #fffaf0;
     min-width: 320px;
   }
   #titleBar .title {
