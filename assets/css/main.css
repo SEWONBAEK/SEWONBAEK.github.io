@@ -2467,7 +2467,7 @@ input[type=button]:disabled,
     top: 0;
     width: 100%;
     z-index: 10001;
-    background: #F6E05E;
+    background: #FFF;
     color: #fff;
     min-width: 320px;
   }
@@ -2508,7 +2508,7 @@ input[type=button]:disabled,
     font-weight: 900;
   }
   #titleBar .toggle:before {
-    background: #F6E05E;
+    background: #FFF;
     color: #fffaf0;
     content: "\f0c9";
     display: block;
