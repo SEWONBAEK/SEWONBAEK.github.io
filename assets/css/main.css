@@ -108,7 +108,7 @@ textarea {
 }
 
 a {
-  color: #f8f9fa;
+  color: #888;
   transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   border-bottom: solid 1px #e4e4e4;
   text-decoration: none;
