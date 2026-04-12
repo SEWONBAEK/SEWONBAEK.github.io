@@ -87,7 +87,7 @@ html {
 }
 
 body {
-  background: #0d1117;
+  background-color: #0d1117;
 }
 body.is-preload *,
 body.is-preload *:before,
