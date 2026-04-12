@@ -29,7 +29,7 @@
 </div>
 ### Statistics
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=본인의아이디&show_icons=true&theme=holi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEWONBAEK&show_icons=true&theme=holi" />
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=SEWONBAEK&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=SEWONBAEK" width="42%" height="100%"/>
 </div>
