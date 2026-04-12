@@ -1475,7 +1475,7 @@ input[type=password]:focus,
 input[type=email]:focus,
 select:focus,
 textarea:focus {
-  border-color: #006400;
+  border-color: #0056b3;
 }
 
 select {
@@ -1571,7 +1571,7 @@ input[type=radio]:checked + label:before {
 }
 input[type=checkbox]:focus + label:before,
 input[type=radio]:focus + label:before {
-  border-color: #006400;
+  border-color: #0056b3;
 }
 
 input[type=checkbox] + label:before {
@@ -1960,7 +1960,7 @@ ul.feature-icons li:before {
   font-weight: 400;
 }
 ul.feature-icons li:before {
-  background: #006400;
+  background: #0056b3;
   border-radius: 100%;
   color: #fffaf0;
   display: block;
@@ -2142,7 +2142,7 @@ input[type=submit].primary,
 input[type=reset].primary,
 input[type=button].primary,
 .button.primary {
-  background-color: #006400;
+  background-color: #0056b3;
   color: #fffaf0 !important;
 }
 input[type=submit].primary:hover,
@@ -2303,7 +2303,7 @@ input[type=button]:disabled,
 }
 #header > nav ul li a.active {
   background: #fffaf0;
-  color: #006400 !important;
+  color: #0056b3 !important;
 }
 #header > nav ul li:first-child {
   border-top: 0;
