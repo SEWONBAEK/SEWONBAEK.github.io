@@ -1416,7 +1416,7 @@ header h6 + p {
   line-height: 1.5em;
 }
 header.major h2 {
-  color: #F6E05E;
+  color: #0056b3;
   font-size: 3.5em;
 }
 header.major h2 + p {
@@ -2467,11 +2467,11 @@ input[type=button]:disabled,
     width: 100%;
     z-index: 10001;
     background: #222;
-    color: #fff;
+    color: #f8f9fa;
     min-width: 320px;
   }
   #titleBar .title {
-    color: #222;
+    color: #f8f9fa;
     display: block;
     font-weight: 700;
     height: 44px;
@@ -2507,8 +2507,8 @@ input[type=button]:disabled,
     font-weight: 900;
   }
   #titleBar .toggle:before {
-    background: #F6E05E;
-    color: #fffaf0;
+    background: #0056b3;
+    color: #f8f9fa;
     content: "\f0c9";
     display: block;
     font-size: 18px;
